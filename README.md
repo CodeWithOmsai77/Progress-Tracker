@@ -25,7 +25,7 @@
 ## 📦 PHASE 1 — Foundation (0–12 Months)
 
 ### 1.1 Setup & Environment
-- [ ] Install WSL2 (store on D: drive)
+- [x] Install WSL2 (store on D: drive)
 - [ ] Set WSL2 default install location to D: drive
 - [ ] Install VS Code WSL extension
 - [ ] Configure Git username and email globally
