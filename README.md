@@ -18,7 +18,7 @@
 ## 🗓️ URGENT — Do This First
 - [ ] Enroll NPTEL CMOS VLSI Design → deadline **Mar 29** → [Link](https://onlinecourses.nptel.ac.in/noc26_cs50)
 - [ ] Enroll NPTEL VLSI Physical Design → deadline **Apr 25**
-- [ ] Install WSL2 on D: drive → run `wsl --install` in PowerShell
+- [x] Install WSL2 on D: drive → run `wsl --install` in PowerShell
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### 1.1 Setup & Environment
 - [x] Install WSL2 (store on D: drive)
-- [ ] Set WSL2 default install location to D: drive
+- [x] Set WSL2 default install location to D: drive
 - [ ] Install VS Code WSL extension
 - [ ] Configure Git username and email globally
 - [ ] Create this progress-tracking repo on GitHub
