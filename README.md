@@ -5,7 +5,7 @@
 ---
 
 ## ⚡ Current Status
-- **Phase 1 overall:** 40% complete
+- **Phase 1 overall:** 20% complete
 - **Digital Electronics:** ✅ Strong
 - **C Programming:** 🔄 Basic done
 - **Python:** 🔄 Intermediate
