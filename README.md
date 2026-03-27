@@ -29,7 +29,7 @@
 - [x] Set WSL2 default install location to D: drive
 - [ ] Install VS Code WSL extension
 - [ ] Configure Git username and email globally
-- [ ] Create this progress-tracking repo on GitHub
+- [x] Create this progress-tracking repo on GitHub
 - [ ] Learn 30 essential Linux terminal commands
 - [ ] Understand file permissions (`chmod`, `chown`)
 - [ ] Learn bash scripting basics (variables, loops, if-else)
@@ -53,7 +53,7 @@
 - [x] Sequential circuits — flip-flops, counters, registers
 - [x] Number systems — binary, hex, 2's complement
 - [ ] IEEE 754 floating point representation
-- [x] FSM (Finite State Machine) basics
+- [ ] FSM (Finite State Machine) basics
 - [ ] Moore vs Mealy FSM — deep understanding
 - [ ] FSM design from word problems (practice 10+)
 - [x] Microcontroller basics (8051)
