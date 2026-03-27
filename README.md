@@ -35,6 +35,16 @@
 - [ ] Learn bash scripting basics (variables, loops, if-else)
 - [ ] Learn piping and redirection (`|`, `>`, `>>`, `grep`)
 - [ ] Understand process management (`ps`, `kill`, `top`)
+- [ ] Linux file system hierarchy (/home, /etc, /bin, /usr)
+- [ ] Understanding environment variables (PATH, HOME)
+- [ ] Package management (apt, apt-get)
+- [ ] Difference: user space vs kernel space
+- [ ] Install ModelSim / Icarus Verilog (basic simulator)
+- [ ] Install GTKWave (waveform viewer)
+- [ ] Basic simulation flow understanding (compile → simulate → waveform)
+- [ ] Use VS Code for Linux development (WSL integration)
+- [ ] Setup extensions: C/C++, Python, Verilog HDL
+- [ ] Learn debugging basics in VS Code
 
 ### 1.2 Digital Electronics (Already Strong — Just Fill Gaps)
 - [x] Boolean algebra and logic gates
@@ -151,6 +161,10 @@
 - [ ] Pull requests workflow
 - [ ] Commit daily habit — even small changes
 - [ ] GitHub profile has pinned repos
+- [ ] Understand staging area vs working directory
+- [ ] Write meaningful commit messages
+- [ ] Resolve merge conflicts
+- [ ] Use GitHub issues/projects (basic)
 
 ### 1.9 Mathematics
 - [ ] Boolean algebra deep (Karnaugh maps, SOP, POS)
@@ -171,7 +185,22 @@
 ---
 
 ## 🔬 PHASE 2 — VLSI Core (12–36 Months)
-
+- [ ] Convert your Verilog ALU to SystemVerilog
+- [ ] Add testbench using SystemVerilog
+      
+#### FPGA Basics (Parallel)
+- [ ] Install Xilinx Vivado (or study interface if low PC power)
+- [ ] Understand RTL → FPGA flow
+- [ ] Synthesize simple design (MUX / ALU)
+      
+#### RISC-V Intro
+- [ ] What is ISA
+- [ ] RV32I basic instructions (ADD, SUB, LOAD, STORE)
+      
+#### Essential Sotwares
+- [ ] ModelSim / QuestaSim (simulation)
+- [ ] Quartus (optional)
+      
 ### 2.1 RTL Design
 - [ ] SystemVerilog data types
 - [ ] Interfaces and packages
@@ -182,6 +211,11 @@
 - [ ] FPGA prototyping — map RTL to Xilinx Vivado
 - [ ] RISC-V ISA — RV32I base understanding
 - [ ] Build: RISC-V 5-stage pipelined CPU in Verilog
+- [ ] Data types — logic, bit, int
+- [ ] always_ff vs always_comb
+- [ ] Interfaces basics
+- [ ] Packages basics
+- [ ] Assertions intro (SVA basics)
 
 ### 2.2 Functional Verification (UVM)
 - [ ] SystemVerilog OOP — classes, inheritance
@@ -192,6 +226,9 @@
 - [ ] UVM Driver, Monitor, Scoreboard, Agent
 - [ ] UVM Environment and test
 - [ ] Build: UVM testbench for your ALU
+- [ ] Difference: directed vs constrained random testing
+- [ ] Scoreboard design concept
+- [ ] Coverage-driven verification mindset
 
 ### 2.3 Synthesis & STA
 - [ ] Logic synthesis concepts — RTL to gate netlist
@@ -201,6 +238,9 @@
 - [ ] SDC constraints — `create_clock`, `set_input_delay`
 - [ ] Synopsys Design Compiler basics
 - [ ] Read and understand a timing report
+- [ ] Setup vs hold timing deeply
+- [ ] Clock skew and latency
+- [ ] Critical path identification
 
 ### 2.4 Physical Design
 - [ ] Floorplanning concepts
@@ -210,6 +250,9 @@
 - [ ] DRC and LVS sign-off
 - [ ] GDSII format understanding
 - [ ] OpenROAD (free tool) — basic flow
+- [ ] Basic CMOS layout understanding
+- [ ] Standard cell concept
+- [ ] Power grid basics
 
 ### 2.5 DFT — Design for Test
 - [ ] Scan chain insertion concept
@@ -217,6 +260,8 @@
 - [ ] BIST — Built-In Self Test
 - [ ] JTAG / Boundary Scan (IEEE 1149.1)
 - [ ] Stuck-at fault model
+- [ ] Scan shift vs capture mode
+- [ ] Why testing is required in chips
 
 ### 2.6 RISC-V
 - [ ] RV32I base ISA specification
@@ -227,7 +272,8 @@
 - [ ] RISC-V GNU toolchain setup
 - [ ] Read PicoRV32 source code on GitHub
 - [ ] Build: 5-stage pipelined RISC-V CPU
-
+- [ ] Instruction formats (R, I, S, B, U, J types)
+- [ ] Pipeline hazards (data, control, structural)
 ### 2.7 Phase 2 Projects
 - [ ] 5-stage pipelined RISC-V CPU in Verilog
 - [ ] UVM testbench for AXI4 bus controller
@@ -247,6 +293,9 @@
 - [ ] Signal integrity concepts
 - [ ] Power integrity — decoupling capacitors
 - [ ] Build: Design a PCB with STM32 + sensors in KiCad
+- [ ] Grounding techniques (VERY IMPORTANT)
+- [ ] Decoupling capacitor placement rules
+- [ ] EMI basics
 
 ### 3.2 Analog Electronics
 - [ ] Op-amp circuits — inverting, non-inverting amplifier
@@ -257,6 +306,8 @@
 - [ ] LTSpice installation and simulation
 - [ ] Simulate a buck converter in LTSpice
 - [ ] Oscillator circuits basics
+- [ ] Frequency response (Bode plot basics)
+- [ ] Stability basics
 
 ### 3.3 Embedded Systems
 - [ ] Arduino Uno — GPIO, ADC, UART, SPI, I2C, timers
@@ -266,13 +317,17 @@
 - [ ] Bootloader basics
 - [ ] Build: Custom RTOS task scheduler on STM32
 - [ ] Build: SPI/I2C controller in Verilog (combo project)
+- [ ] Interrupt handling (deep)
+- [ ] Register-level programming
+- [ ] Memory-mapped I/O
 
 ### 3.4 Hardware Debugging
 - [ ] Oscilloscope usage basics
 - [ ] Logic analyzer usage
 - [ ] JTAG debugger (ST-Link)
 - [ ] Protocol decode — SPI, I2C, UART
-
+- [ ] STM32CubeIDE
+- [ ] Proteus (optional simulation)
 ---
 
 ## 🤖 PHASE 4 — Robotics & Automation (24–36 Months)
@@ -283,6 +338,8 @@
 - [ ] Transfer functions and Bode plots
 - [ ] Kalman filter basics
 - [ ] MATLAB / Simulink basics
+- [ ] Stability criteria (basic idea)
+- [ ] Real-world tuning of PID
 
 ### 4.2 ROS2
 - [ ] ROS2 architecture — nodes, topics, services
@@ -291,17 +348,21 @@
 - [ ] URDF robot modeling
 - [ ] Nav2 navigation stack
 - [ ] Build: Autonomous robot with obstacle avoidance
+- [ ] ROS2 communication internals (DDS concept)
 
 ### 4.3 Computer Vision & AI
 - [ ] OpenCV — image processing, edge detection
 - [ ] Object detection — YOLO basics
 - [ ] Camera calibration
 - [ ] SLAM introduction — GMapping
+- [ ] Image coordinate systems
+- [ ] Basic transformations (rotation, scaling)
 
 ### 4.4 Industrial Automation
 - [ ] PLC basics — ladder logic
 - [ ] SCADA system overview
 - [ ] Modbus protocol
+- [ ] Ladder logic real examples
 
 ---
 
@@ -319,6 +380,8 @@
 - [ ] Dynamic programming (basic)
 - [ ] Bit manipulation problems (LeetCode 10+)
 - [ ] Graph algorithms — Dijkstra
+- [ ] Time complexity (Big-O analysis)
+- [ ] Space complexity
 
 ### 5.2 OOP & Design Patterns
 - [ ] SOLID principles
@@ -326,6 +389,8 @@
 - [ ] Observer pattern
 - [ ] Singleton pattern
 - [ ] UML class diagrams
+- [ ] Memory management in C++
+- [ ] Smart pointers
 
 ### 5.3 Build Systems & DevOps
 - [ ] Makefile for C/C++ project
@@ -334,6 +399,8 @@
 - [ ] Docker basics
 - [ ] CI/CD concepts
 - [ ] Bash scripting for automation
+- [ ] Linux shell scripting projects
+- [ ] Writing automation pipelines
 
 ---
 
@@ -346,12 +413,15 @@
 - [ ] Apple Neural Engine overview
 - [ ] NVDLA open-source accelerator — read the docs
 - [ ] Chipyard framework intro
+- [ ] MAC operation (multiply-accumulate concept)
+- [ ] Dataflow in neural networks
 
 ### 6.2 Chiplet Architecture
 - [ ] UCIe die-to-die interconnect standard
 - [ ] AMD Ryzen chiplet architecture (read)
 - [ ] Apple M-series chiplet design (read)
 - [ ] 2.5D/3D packaging — CoWoS basics
+- [ ] Model optimization (quantization basics)
 
 ### 6.3 Edge AI
 - [ ] TensorFlow Lite on microcontroller
