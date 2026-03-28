@@ -27,8 +27,8 @@
 ### 1.1 Setup & Environment
 - [x] Install WSL2 (store on D: drive)
 - [x] Set WSL2 default install location to D: drive
-- [ ] Install VS Code WSL extension
-- [ ] Configure Git username and email globally
+- [x] Install VS Code WSL extension
+- [x] Configure Git username and email globally
 - [x] Create this progress-tracking repo on GitHub
 - [ ] Learn 30 essential Linux terminal commands
 - [ ] Understand file permissions (`chmod`, `chown`)
