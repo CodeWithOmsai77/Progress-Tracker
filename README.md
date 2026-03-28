@@ -39,12 +39,12 @@
 - [ ] Understanding environment variables (PATH, HOME)
 - [ ] Package management (apt, apt-get)
 - [ ] Difference: user space vs kernel space
-- [ ] Install ModelSim / Icarus Verilog (basic simulator)
-- [ ] Install GTKWave (waveform viewer)
+- [x] Install ModelSim / Icarus Verilog (basic simulator)
+- [x] Install GTKWave (waveform viewer)
 - [ ] Basic simulation flow understanding (compile → simulate → waveform)
-- [ ] Use VS Code for Linux development (WSL integration)
-- [ ] Setup extensions: C/C++, Python, Verilog HDL
-- [ ] Learn debugging basics in VS Code
+- [x] Use VS Code for Linux development (WSL integration)
+- [x] Setup extensions: C/C++, Python, Verilog HDL
+- [x] Learn debugging basics in VS Code
 
 ### 1.2 Digital Electronics (Already Strong — Just Fill Gaps)
 - [x] Boolean algebra and logic gates
