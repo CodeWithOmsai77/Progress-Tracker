@@ -1,0 +1,101 @@
+DAY 1 LINUX + GIT COMMANDS
+
+1. NAVIGATION
+
+pwd
+ls
+ls -l
+ls -a
+
+cd ~
+cd /
+cd ..
+cd folder_name
+
+2. FILE AND DIRECTORY OPERATIONS
+
+mkdir folder_name
+mkdir -p a/b/c
+
+touch file.txt
+
+cp file.txt folder/
+mv file.txt newname.txt
+mv file.txt folder/
+
+rm file.txt
+rm -r folder/
+
+3. FILE VIEW AND EDIT
+
+cat file.txt
+nano file.txt
+vim file.txt
+
+4. PERMISSIONS
+
+ls -l
+chmod +x file.txt
+chmod 777 file.txt
+
+5. SYSTEM COMMANDS
+
+tree
+clear
+whoami
+
+6. PACKAGE MANAGEMENT
+
+sudo apt update
+sudo apt upgrade
+sudo apt install tree
+
+7. GIT COMMANDS
+
+git init
+git status
+git add .
+git commit -m "message"
+
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com
+"
+
+git branch -m main
+
+8. WORKSPACE SETUP
+
+cd ~
+mkdir vlsi_workspace
+cd vlsi_workspace
+
+mkdir linux digital verilog projects notes
+tree
+
+VS CODE
+
+code .
+
+9. AUTO START WORKSPACE (OPTIONAL)
+
+echo "cd ~/vlsi_workspace" >> ~/.bashrc
+source ~/.bashrc
+
+10. TROUBLESHOOTING
+
+ls ~
+find / -type d -name "vlsi_workspace" 2>/dev/null
+
+
+*MOST IMPORTANT COMMANDS*
+
+cd
+ls
+mkdir
+touch
+rm
+cp
+mv
+nano
+git add
+git commit
