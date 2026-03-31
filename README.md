@@ -37,7 +37,8 @@
 ---
 
 <details>
-<summary># 📦 PHASE 1 — FOUNDATION (0–3 Months)
+  
+# 📦 PHASE 1 — FOUNDATION (0–3 Months)
 
 ⚠️ MOST IMPORTANT PHASE  
 🎯 Goal: Build STRONG base in Verilog + Digital + Linux  
