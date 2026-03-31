@@ -36,7 +36,8 @@
 
 ---
 
-# 📦 PHASE 1 — FOUNDATION (0–3 Months)
+<details>
+<summary># 📦 PHASE 1 — FOUNDATION (0–3 Months)
 
 ⚠️ MOST IMPORTANT PHASE  
 🎯 Goal: Build STRONG base in Verilog + Digital + Linux  
@@ -427,6 +428,7 @@ Focus Split:
 ✔ Comfortable with Linux  
 
 ---
+<details>
 
 # 🚀 PHASE 2 — VLSI CORE (3–12 Months)
 
