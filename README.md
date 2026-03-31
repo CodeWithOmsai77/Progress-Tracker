@@ -38,7 +38,7 @@
 
 <details>
   
-# 📦 PHASE 1 — FOUNDATION (0–3 Months)
+<summary> 📦 PHASE 1 — FOUNDATION (0–3 Months) </summary>
 
 ⚠️ MOST IMPORTANT PHASE  
 🎯 Goal: Build STRONG base in Verilog + Digital + Linux  
@@ -429,9 +429,10 @@ Focus Split:
 ✔ Comfortable with Linux  
 
 ---
-<details>
+</details>
 
-# 🚀 PHASE 2 — VLSI CORE (3–12 Months)
+<details>
+<summary> 🚀 PHASE 2 — VLSI CORE (3–12 Months) </summary>
 
 ⚠️ Start ONLY after:
 ✔ Strong Verilog (ALU + UART + CPU basics)
@@ -777,8 +778,10 @@ Focus Split:
 ✔ Industry-ready skills  
 
 ---
+</details>
 
-# 🔧 PHASE 3 — ELECTRONICS & EMBEDDED (6–12 Months)
+<details>
+<summary> 🔧 PHASE 3 — ELECTRONICS & EMBEDDED (6–12 Months) </summary>
 
 ⚠️ Start ONLY after:
 ✔ Strong RTL (CPU / RISC-V level)
@@ -1096,8 +1099,10 @@ Focus Split:
 ✔ Debugging skills  
 
 ---
+</details>
 
-# 🤖 PHASE 4 — ROBOTICS & AUTOMATION (6–12 Months)
+<details>
+<summary> 🤖 PHASE 4 — ROBOTICS & AUTOMATION (6–12 Months) </summary>
 
 ⚠️ Start ONLY if:
 ✔ Phase 1 + 2 strong
@@ -1390,8 +1395,10 @@ Focus Split:
 👉 Do NOT sacrifice Phase 1 & 2 for this  
 
 ---
+</details>
 
-# 💻 PHASE 5 — SOFTWARE ENGINEERING (ONGOING / PARALLEL)
+<details>
+<summary> 💻 PHASE 5 — SOFTWARE ENGINEERING (ONGOING / PARALLEL) </summary>
 
 ⚠️ Runs parallel with ALL phases (especially Phase 1 & 2)
 
@@ -1728,8 +1735,10 @@ Focus Split:
 ✔ Interview readiness  
 
 ---
+</details>
 
-# 🚀 PHASE 6 — ADVANCED SPECIALIZATION & FUTURE TECH (36+ Months)
+<details>
+<summary> 🚀 PHASE 6 — ADVANCED SPECIALIZATION & FUTURE TECH (36+ Months) </summary>
 
 ⚠️ Start ONLY after:
 ✔ Strong RTL + Verification (Phase 2 complete)
@@ -2045,3 +2054,4 @@ Choose ONE PRIMARY DOMAIN:
 ✔ Ready for top companies  
 
 ---
+</details>
