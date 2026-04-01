@@ -329,6 +329,7 @@ Focus Split:
 - [ ] os module
 - [ ] subprocess
 - [ ] regex basics
+- [ ] skripting
 
 ---
 
