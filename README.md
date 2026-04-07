@@ -68,7 +68,7 @@ Focus Split:
 
 ## 🔹 Basics
 
-- [ ] ls, cd, pwd
+- [x] ls, cd, pwd
 - [ ] mkdir, rm, cp, mv
 - [ ] touch, cat, nano
 
@@ -80,7 +80,7 @@ Focus Split:
 
 ## 🔹 File System
 
-- [ ] /home, /etc, /bin, /usr
+- [x] /home, /etc, /bin, /usr
 - [ ] relative vs absolute path
 
 ---
@@ -104,9 +104,9 @@ Focus Split:
 
 ## 🔹 VLSI Tool Flow
 
-- [ ] Compile Verilog (iverilog)
-- [ ] Run simulation
-- [ ] View waveform (GTKWave)
+- [x] Compile Verilog (iverilog)
+- [x] Run simulation
+- [x] View waveform (GTKWave)
 
 ---
 
@@ -184,7 +184,7 @@ Focus Split:
 
 ## Concepts
 
-- [ ] module syntax
+- [x] module syntax
 - [ ] input, output, inout
 - [ ] wire vs reg
 - [ ] assign statement
@@ -194,7 +194,7 @@ Focus Split:
 
 ## 🔨 Projects
 
-- [ ] AND gate
+- [x] AND gate
 - [ ] OR gate
 - [ ] NOT gate
 - [ ] XOR gate
