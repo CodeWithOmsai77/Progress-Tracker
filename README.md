@@ -351,8 +351,8 @@ Focus Split:
 
 ## 🔹 Basics
 
-- [ ] git init, add, commit
-- [ ] git push, pull
+- [x] git init, add, commit
+- [x] git push, pull
 
 ---
 
