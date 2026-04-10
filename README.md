@@ -69,8 +69,8 @@ Focus Split:
 ## 🔹 Basics
 
 - [x] ls, cd, pwd
-- [ ] mkdir, rm, cp, mv
-- [ ] touch, cat, nano
+- [x] mkdir, rm, cp, mv
+- [x] touch, cat, nano
 
 ## 🔹 File Permissions
 
@@ -195,8 +195,8 @@ Focus Split:
 ## 🔨 Projects
 
 - [x] AND gate
-- [ ] OR gate
-- [ ] NOT gate
+- [x] OR gate
+- [x] NOT gate
 - [ ] XOR gate
 - [ ] 2:1 MUX
 - [ ] 4:1 MUX
