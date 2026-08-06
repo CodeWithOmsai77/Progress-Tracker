@@ -11,7 +11,7 @@
 
 - Phase 1: 🔄 In Progress (~20%)
 - Digital Electronics: ✅ Strong
-- Verilog: ❌ Not Started (START IMMEDIATELY)
+- Verilog: ✅ Started
 - Linux: 🔄 Basic Setup Done
 - Git: 🔄 Basic
 - Programming: C (Basic), Python (Intermediate)
