@@ -87,9 +87,9 @@ Focus Split:
 
 ## 🔹 Intermediate
 
-- [ ] ps, top, kill
-- [ ] grep, find
-- [ ] piping (|)
+- [x] ps, top, kill
+- [x] grep, find
+- [x] piping (|)
 - [ ] redirection (>, >>)
 
 ---
@@ -185,10 +185,10 @@ Focus Split:
 ## Concepts
 
 - [x] module syntax
-- [ ] input, output, inout
-- [ ] wire vs reg
-- [ ] assign statement
-- [ ] always block
+- [x] input, output, inout
+- [x] wire vs reg
+- [x] assign statement
+- [x] always block
 
 ---
 
@@ -197,7 +197,7 @@ Focus Split:
 - [x] AND gate
 - [x] OR gate
 - [x] NOT gate
-- [ ] XOR gate
+- [x] XOR gate
 - [ ] 2:1 MUX
 - [ ] 4:1 MUX
 - [ ] Decoder (2:4)
@@ -206,7 +206,7 @@ Focus Split:
 
 ## 🎯 Practice
 
-- [ ] HDLBits (basic section)
+- [x] HDLBits (basic section)
 
 ---
 
