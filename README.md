@@ -198,6 +198,7 @@ Focus Split:
 - [x] OR gate
 - [x] NOT gate
 - [x] XOR gate
+- [x] XNOR gate
 - [ ] 2:1 MUX
 - [ ] 4:1 MUX
 - [ ] Decoder (2:4)
