@@ -197,6 +197,8 @@ Focus Split:
 - [x] AND gate
 - [x] OR gate
 - [x] NOT gate
+- [ ] NAND gate
+- [ ] NOR gate
 - [x] XOR gate
 - [x] XNOR gate
 - [ ] 2:1 MUX
