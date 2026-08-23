@@ -197,12 +197,13 @@ Focus Split:
 - [x] AND gate
 - [x] OR gate
 - [x] NOT gate
-- [ ] NAND gate
-- [ ] NOR gate
+- [x] NAND gate
+- [x] NOR gate
 - [x] XOR gate
 - [x] XNOR gate
-- [ ] 2:1 MUX
+- [x] 2:1 MUX
 - [ ] 4:1 MUX
+- [ ] Encoder
 - [ ] Decoder (2:4)
 
 ---
