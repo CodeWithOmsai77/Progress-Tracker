@@ -205,6 +205,7 @@ Focus Split:
 - [ ] 4:1 MUX
 - [ ] Encoder
 - [ ] Decoder (2:4)
+- [ ] Camparators
 
 ---
 
