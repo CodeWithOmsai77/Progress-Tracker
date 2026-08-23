@@ -194,6 +194,7 @@ Focus Split:
 
 ## 🔨 Projects
 
+### Basic Gates
 - [x] AND gate
 - [x] OR gate
 - [x] NOT gate
@@ -201,10 +202,20 @@ Focus Split:
 - [x] NOR gate
 - [x] XOR gate
 - [x] XNOR gate
+      
+### Multiplexers / DEMUX
 - [x] 2:1 MUX
 - [ ] 4:1 MUX
-- [ ] Encoder
+- [ ] 8:1 MUX
+- [ ] 16:1 mux
+- [ ] 1:2 DEMUX
+- [ ] 1:4 DEMUX
+
+### Encoders / Decoders
+- [ ] Encoder (4:2)
+- [ ] Priority Encoder
 - [ ] Decoder (2:4)
+- [ ] Decoder (3:8)
 - [ ] Camparators
 
 ---
@@ -235,10 +246,38 @@ Focus Split:
 
 ## 🔨 Projects
 
+### Arithmetic Circuits
 - [ ] Half Adder
 - [ ] Full Adder
-- [ ] 4-bit Counter
-- [ ] Shift Register (SISO, SIPO)
+- [ ] Half Subtractor
+- [ ] Full Subtractor
+- [ ] 4-bit Ripple Carry Adder
+
+### Comparators / Logic
+- [ ] 1-bit Comparator
+- [ ] 4-bit Comparator
+- [ ] 4-bit Binary-to-Gray Converter
+- [ ] 4-bit Gray-to-Binary Converter
+- [ ] Parity Generator
+- [ ] Parity Checker
+- [ ] 4-bit Even/Odd Detector
+
+### Counters
+- [ ] Asynchronous (Ripple) Counter
+- [ ] Synchronous Counter
+- [ ] Up Counter
+- [ ] Down Counter
+- [ ] Up/Down Counter
+- [ ] Mod-N Counter
+- [ ] Ring Counter
+- [ ] Johnson Counter
+
+### Shift Registers
+- [ ] SISO Shift Register
+- [ ] SIPO Shift Register
+- [ ] PISO Shift Register
+- [ ] PIPO Shift Register
+- [ ] Universal Shift Register
 
 ---
 
