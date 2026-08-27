@@ -205,11 +205,13 @@ Focus Split:
       
 ### Multiplexers / DEMUX
 - [x] 2:1 MUX
-- [ ] 4:1 MUX
-- [ ] 8:1 MUX
-- [ ] 16:1 mux
+- [x] 4:1 MUX
+- [x] 8:1 MUX
+- [x] 16:1 mux
 - [ ] 1:2 DEMUX
 - [ ] 1:4 DEMUX
+- [ ] 1:8 DEMUX
+- [ ] 1:16 DEMUX
 
 ### Encoders / Decoders
 - [ ] Encoder (4:2)
