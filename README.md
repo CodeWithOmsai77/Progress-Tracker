@@ -208,16 +208,21 @@ Focus Split:
 - [x] 4:1 MUX
 - [x] 8:1 MUX
 - [x] 16:1 mux
-- [ ] 1:2 DEMUX
-- [ ] 1:4 DEMUX
-- [ ] 1:8 DEMUX
-- [ ] 1:16 DEMUX
+- [x] 1:2 DEMUX
+- [x] 1:4 DEMUX
+- [x] 1:8 DEMUX
+- [x] 1:16 DEMUX
 
 ### Encoders / Decoders
-- [ ] Encoder (4:2)
-- [ ] Priority Encoder
-- [ ] Decoder (2:4)
+- [x] Encoder (4:2)
+- [x] Encoder (8:3)
+- [ ] Encoder (64:6)
+- [x] Priority Encoder
+- [x] Priority Encoder with Valid
+- [x] Decoder (2:4)
+- [ ] Decoder (2:4) with Enable
 - [ ] Decoder (3:8)
+- [ ] Priority Decoder
 - [ ] Camparators
 
 ---
