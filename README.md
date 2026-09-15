@@ -216,13 +216,13 @@ Focus Split:
 ### Encoders / Decoders
 - [x] Encoder (4:2)
 - [x] Encoder (8:3)
-- [ ] Encoder (64:6)
+- [x] Encoder (64:6)
 - [x] Priority Encoder
 - [x] Priority Encoder with Valid
 - [x] Decoder (2:4)
-- [ ] Decoder (2:4) with Enable
-- [ ] Decoder (3:8)
-- [ ] Priority Decoder
+- [x] Decoder (2:4) with Enable
+- [x] Decoder (3:8)
+- [x] Priority Decoder
 - [ ] Camparators
 
 ---
