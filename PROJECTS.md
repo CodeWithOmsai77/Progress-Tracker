@@ -15,6 +15,7 @@ Repository: [CodeWithOmsai77/Verilog-Fundamentals](https://github.com/CodeWithOm
 | Demultiplexers | 1:2, 1:4, 1:8, 1:16 and hierarchical implementations | [DEMUX projects](https://github.com/CodeWithOmsai77/Verilog-Fundamentals/tree/main/Verilog_Basics/Combinational/Demultiplexer) |
 | Encoders | 4:2, 8:3, 8:3 using 4:2 blocks, 16:4, priority 4:2 and valid-output priority encoder | [Encoder projects](https://github.com/CodeWithOmsai77/Verilog-Fundamentals/tree/main/RTL_Design/Combinational/Encoder) |
 | Decoders | 2-to-4, hierarchical 4-to-16, 6-to-64 | [Decoder projects](https://github.com/CodeWithOmsai77/Verilog-Fundamentals/tree/main/RTL_Design/Combinational/Decoders) |
+| Adders | Half adder, full adder using two half adders, and 4-bit ripple-carry adder | [Adder projects](https://github.com/CodeWithOmsai77/Verilog-Fundamentals/tree/main/RTL_Design/Combinational/Adders) |
 
 ### 2. Sequential RTL Foundations
 
