@@ -52,13 +52,14 @@ Expected deliverables:
 
 ## ➡️ Next Projects — Suggested Order
 
-1. Half adder and full adder.
-2. Half/full subtractor, comparator and parity circuits.
-3. Counters and shift registers.
-4. Moore/Mealy FSM and sequence detector.
-5. ALU with self-checking tests.
-6. UART and FIFO.
-7. Simple CPU / RISC-V only after the design and verification foundations are solid.
+1. Half/full subtractor, comparator and parity circuits.
+2. Counters and shift registers.
+3. Moore/Mealy FSM and sequence detector.
+4. ALU with self-checking tests.
+5. UART and FIFO.
+6. Simple CPU / RISC-V only after the design and verification foundations are solid.
+
+Half adder, full adder and ripple-carry adder exercises are already documented in [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals); they are not future backlog items.
 
 For each project, keep design RTL, testbench, simulation instructions, waveforms/reports where useful, and a short README. Use a project status only after the files and test evidence match it.
 
