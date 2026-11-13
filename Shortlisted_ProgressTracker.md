@@ -139,13 +139,14 @@ Concept sequence to learn in context:
 
 Build in small steps. For each project, complete the specification, RTL, self-checking testbench, lint/simulation and documentation before moving on.
 
-1. Half adder and full adder.
-2. Subtractors, magnitude comparator, parity generator/checker and binary/Gray conversion.
-3. Counters and shift registers.
-4. Moore and Mealy FSMs, including a sequence detector or traffic-light controller.
-5. ALU with a clear operation table and comprehensive tests.
-6. UART transmitter/receiver and FIFO.
-7. Simple CPU / RISC-V exploration after the core RTL and verification workflow is dependable.
+1. Subtractors, magnitude comparator, parity generator/checker and binary/Gray conversion.
+2. Counters and shift registers.
+3. Moore and Mealy FSMs, including a sequence detector or traffic-light controller.
+4. ALU with a clear operation table and comprehensive tests.
+5. UART transmitter/receiver and FIFO.
+6. Simple CPU / RISC-V exploration after the core RTL and verification workflow is dependable.
+
+Half adder, full adder and ripple-carry adder exercises are already present in [Verilog-Fundamentals](https://github.com/CodeWithOmsai77/Verilog-Fundamentals), so they are excluded from this future-project list.
 
 These are planned milestones, not completed projects.
 
